@@ -1,5 +1,8 @@
 # Marvel-Movies
 
+To view complete project:
+https://nbviewer.org/github/vrindasaraf90/Marvel-Movies/blob/main/Marvel%20Movies.ipynb
+<br>
 The key parameters are:
     - Name
     
